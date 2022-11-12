@@ -24,16 +24,3 @@ To run this software succesfully in your machine, you should have
 * [Qt Framework](https://www.qt.io/) - The web framework used
 * [Amazon Web Services](https://aws.amazon.com/) - Amazon RDS is used as database provider
 
-
-## Authors
-
-* **Aadarsha Dhakal** - [TheDartMan](https://github.com/aadarshadhakalg)
-* **Ayush Paudel** - [user-metaterongo](https://github.com/user-metaterongo)/ [AyushPaudel](https://github.com/AyushPaudel)
-* **Sushant Adhikari** - [sushant-c](https://github.com/sushant-c)
-* **Ayush Aryal** - [ayush7aryal](https://github.com/ayush7aryal)
-
-See also the list of [contributors](https://github.com/aadarshadhakalg/HMS/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
